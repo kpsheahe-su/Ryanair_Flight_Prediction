@@ -1,5 +1,5 @@
 # Ryanair_Flight_Prediction
-A model built during the interview process with Ryanair (Europe's Largest Carrier) that predicted the ancillary revenue for a sample of flights in 2023. The work resulted in an offer from the company.
+A model built during the interview process with Ryanair (Europe's Largest Carrier) that predicted the ancillary revenue for a sample of flights in 2023. The files I produced were Ryanair Ancillary Revenue Report, Ryanair (Jupyter File) and validation_predictions. The work resulted in an offer from the company.
 
 I was prompted with the following instructions: 
 
